@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: 15px 0px ;
+}
+marquee{
+    background-color: rgb(0, 233, 250);
+    padding: 15px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    border: 1px solid rgb(0, 162, 255);
+    color: white;
+    font-weight: 700;
+}
+.title{
+    font-size: 35px;
+    text-align: center;
+    text-transform: capitalize;
+    color: aqua;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
+    letter-spacing: 3px;
+}
+#description{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 100;
+    letter-spacing: 1px;
+    line-height: 25px;
+}
+.description_two {
+  color: rgb(0, 86, 136);
+}
